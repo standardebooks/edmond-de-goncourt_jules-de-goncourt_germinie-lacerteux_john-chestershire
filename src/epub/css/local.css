@@ -4,11 +4,18 @@
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
 footer{
 	margin-top: 1em;
 	text-align: right;
 }
-[epub|type~="z3998:salutation"] + p,
-[epub|type~="z3998:letter"] header + p{
-	text-indent: 0;
+
+#chapter-18 blockquote,
+#chapter-48 blockquote{
+	font-style: italic;
+	text-align: center;
+}
+
+q{
+	font-style: italic;
 }
