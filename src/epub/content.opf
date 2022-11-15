@@ -18,9 +18,7 @@
 		<link href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa" rel="dcterms:conformsTo"/>
 		<meta property="a11y:certifiedBy">Standard Ebooks</meta>
 		<meta property="schema:accessMode">textual</meta>
-		<meta property="schema:accessMode">visual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
-		<meta property="schema:accessibilityFeature">alternativeText</meta>
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
@@ -36,55 +34,53 @@
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A French country girl from a poor family lives a hidden life of debauchery, while working as a maidservant in Paris.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Germinie Lacerteux had a rough childhood in the French countryside, but when she finds employment as a maidservant her life seems to be taking a turn for better. In Jupillon, son to the owner of a neighbourhood dairy shop, she even discovers a secret lover. However, her generous nature and self-sacrificial spirit make her vulnerable to his abuse and depravity. Her boundless love, loyalty and faith in the good will ultimately plunge her into debt, alcoholism, nymphomania, and depression—and a never-ending struggle to hide the dark side of her life from her mistress.&lt;/p&gt;
+			&lt;p&gt;For &lt;i&gt;Germinie Lacerteux&lt;/i&gt;, the fourth novel they wrote together, &lt;a href="https://standardebooks.org/ebooks/edmond-de-goncourt"&gt;Edmond&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/jules-de-goncourt"&gt;Jules de Goncourt&lt;/a&gt; drew from a source close to home. The passing of their maidservant Rose a few years earlier, uncovered a sordid hidden life much like Germinie’s. The novel that arose from their shock and surprise—they themselves call it a &lt;em&gt;clinic of love&lt;/em&gt;— was met with high praise and utter disgust alike. A young &lt;a href="https://standardebooks.org/ebooks/emile-zola"&gt;Émile Zola&lt;/a&gt; adored the novel, and Vincent van Gogh called it “life as it is” and made the book one of the subjects of a still life. Other contemporary writers weren’t so full of praise, calling it “putrid” and “chiseled mire.” This could hardly have been a surprise to the Goncourt brothers, for they already warned in the preface: “this book furnishes entertainment of a melancholy, violent sort calculated to disarrange the habits and injure the health of the public.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/27711</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/germinielacerteu02dego</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Germinie_Lacerteux</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edmond-de-goncourt_jules-de-goncourt_germinie-lacerteux_john-chestershire</meta>
 		<dc:creator id="author-1">Edmond de Goncourt</dc:creator>
 		<meta property="file-as" refines="#author-1">Goncourt, Edmond de</meta>
-		<meta property="se:name.person.full-name" refines="#author-1">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Edmond_de_Goncourt</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/names/n80008550</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author-1" scheme="marc:relators">wpr</meta>
 		<dc:creator id="author-2">Jules de Goncourt</dc:creator>
 		<meta property="file-as" refines="#author-2">Goncourt, Jules de</meta>
-		<meta property="se:name.person.full-name" refines="#author-2">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Jules_de_Goncourt</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/names/n50034486</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author-2" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="translator">John Chestershire</dc:contributor>
 		<meta property="file-as" refines="#translator">Chestershire, John</meta>
-		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">CONTRIBUTOR_NACOAF_URI</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
+		<dc:contributor id="artist">Matthijs Maris</dc:contributor>
+		<meta property="file-as" refines="#artist">Maris, Matthijs</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Matthijs_Maris</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr97042011</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Audrey Longhurst</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Longhurst, Audrey</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Meredith Bach</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Bach, Meredith</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Bob Reus</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Reus, Bob</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.bobre.us</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
