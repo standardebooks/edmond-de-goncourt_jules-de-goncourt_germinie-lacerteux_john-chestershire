@@ -38,7 +38,7 @@
 		<dc:description id="description">A French country girl from a poor family lives a hidden life of debauchery, while working as a maidservant in Paris.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Germinie Lacerteux had a rough childhood in the French countryside, but when she finds employment as a maidservant her life seems to be taking a turn for better. In Jupillon, son to the owner of a neighbourhood dairy shop, she even discovers a secret lover. However, her generous nature and self-sacrificial spirit make her vulnerable to his abuse and depravity. Her boundless love, loyalty and faith in the good will ultimately plunge her into debt, alcoholism, nymphomania, and depression—and a never-ending struggle to hide the dark side of her life from her mistress.&lt;/p&gt;
-			&lt;p&gt;For &lt;i&gt;Germinie Lacerteux&lt;/i&gt;, the fourth novel they wrote together, &lt;a href="https://standardebooks.org/ebooks/edmond-de-goncourt"&gt;Edmond&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/jules-de-goncourt"&gt;Jules de Goncourt&lt;/a&gt; drew from a source close to home. The passing of their maidservant Rose a few years earlier, uncovered a sordid hidden life much like Germinie’s. The novel that arose from their shock and surprise—they themselves call it a &lt;em&gt;clinic of love&lt;/em&gt;— was met with high praise and utter disgust alike. A young &lt;a href="https://standardebooks.org/ebooks/emile-zola"&gt;Émile Zola&lt;/a&gt; adored the novel, and Vincent van Gogh called it “life as it is” and made the book one of the subjects of a still life. Other contemporary writers weren’t so full of praise, calling it “putrid” and “chiseled mire.” This could hardly have been a surprise to the Goncourt brothers, for they already warned in the preface: “this book furnishes entertainment of a melancholy, violent sort calculated to disarrange the habits and injure the health of the public.”&lt;/p&gt;
+			&lt;p&gt;For &lt;i&gt;Germinie Lacerteux&lt;/i&gt;, the fourth novel they wrote together, &lt;a href="https://standardebooks.org/ebooks/edmond-de-goncourt"&gt;Edmond&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/jules-de-goncourt"&gt;Jules de Goncourt&lt;/a&gt; drew from a source close to home. The passing of their maidservant Rose a few years earlier, uncovered a sordid hidden life much like Germinie’s. The novel that arose from their shock and surprise—they themselves call it a &lt;em&gt;clinic of love&lt;/em&gt;—was met with high praise and utter disgust alike. A young &lt;a href="https://standardebooks.org/ebooks/emile-zola"&gt;Émile Zola&lt;/a&gt; adored the novel, and Vincent van Gogh called it “life as it is” and made the book one of the subjects of a still life. Other contemporary writers weren’t so full of praise, calling it “putrid” and “chiseled mire.” This could hardly have been a surprise to the Goncourt brothers, for they already warned in the preface: “this book furnishes entertainment of a melancholy, violent sort calculated to disarrange the habits and injure the health of the public.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/27711</dc:source>
@@ -52,17 +52,17 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Edmond_de_Goncourt</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/names/n80008550</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
-		<meta property="role" refines="#author-1" scheme="marc:relators">wpr</meta>
+		<meta property="se:role" refines="#author-1" scheme="marc:relators">wpr</meta>
 		<dc:creator id="author-2">Jules de Goncourt</dc:creator>
 		<meta property="file-as" refines="#author-2">Goncourt, Jules de</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Jules_de_Goncourt</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/names/n50034486</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
-		<meta property="role" refines="#author-2" scheme="marc:relators">wpr</meta>
+		<meta property="se:role" refines="#author-2" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="translator">John Chestershire</dc:contributor>
 		<meta property="file-as" refines="#translator">Chestershire, John</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
+		<meta property="se:role" refines="#translator" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Matthijs Maris</dc:contributor>
 		<meta property="file-as" refines="#artist">Maris, Matthijs</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Matthijs_Maris</meta>
