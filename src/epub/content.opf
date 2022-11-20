@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edmond-de-goncourt_jules-de-goncourt/germinie-lacerteux/john-chestershire</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-11-20T00:07:54Z</dc:date>
+		<meta property="dcterms:modified">2022-11-20T00:07:54Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -35,16 +35,16 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A French country girl from a poor family lives a hidden life of debauchery, while working as a maidservant in Paris.</dc:description>
+		<dc:description id="description">A French country girl from a poor family leads a secret life of debauchery while working as a maidservant in Paris.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Germinie Lacerteux had a rough childhood in the French countryside, but when she finds employment as a maidservant in Paris her life seems to be taking a turn for better. Her mistress Mademoiselle de Varandeuil treats her fairly, and in Jupillon, son of a local dairy-shop owner, she finds a secret lover. However, her generous nature and self-sacrificial spirit make her vulnerable to his abuse and depravity. Her boundless love and loyalty will ultimately plunge her into debt, alcoholism, nymphomania, and depression—and a never-ending struggle to hide the dark side of her life from her mistress.&lt;/p&gt;
-			&lt;p&gt;For &lt;i&gt;Germinie Lacerteux&lt;/i&gt;, the fourth novel they wrote together, &lt;a href="https://standardebooks.org/ebooks/edmond-de-goncourt"&gt;Edmond&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/jules-de-goncourt"&gt;Jules de Goncourt&lt;/a&gt; drew from a source close to home. The passing of their maidservant Rose uncovered a sordid hidden life much like Germinie’s. The novel that arose from their shock and surprise—they themselves call it a &lt;em&gt;clinic of love&lt;/em&gt;—was met with high praise and utter disgust alike. A young &lt;a href="https://standardebooks.org/ebooks/emile-zola"&gt;Émile Zola&lt;/a&gt; adored the novel, and Vincent van Gogh called it “life as it is” and made the book one of the subjects of a still life. Other contemporary writers weren’t so full of praise, calling it “putrid” and “chiseled mire.” This could hardly have been a surprise to the Goncourt brothers, for they already warned in the preface: “this book furnishes entertainment of a melancholy, violent sort calculated to disarrange the habits and injure the health of the public.”&lt;/p&gt;
+			&lt;p&gt;Germinie Lacerteux had a rough childhood in the French countryside, but when she finds employment as a maidservant in Paris her life seems to be taking a turn for the better. Her mistress Mademoiselle de Varandeuil treats her fairly, and in Jupillon, son of a local dairy-shop owner, she finds a secret lover. But her generous nature and self-sacrificial spirit make her vulnerable to his abuse and depravity. Her boundless love and loyalty will ultimately plunge her into debt, alcoholism, nymphomania, and depression—and a never-ending struggle to hide the dark side of her life from her mistress.&lt;/p&gt;
+			&lt;p&gt;In this, their fourth novel, the brothers &lt;a href="https://standardebooks.org/ebooks/edmond-de-goncourt"&gt;Edmond&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/jules-de-goncourt"&gt;Jules de Goncourt&lt;/a&gt;, took inspiration from events close to home: the passing of their maidservant Rose revealed her sordid hidden life, much like Germinie’s. They called the novel that arose from their shock and surprise at Rose’s secrets their &lt;em&gt;clinic of love&lt;/em&gt;—and it was met with high praise and utter disgust alike. A young &lt;a href="https://standardebooks.org/ebooks/emile-zola"&gt;Émile Zola&lt;/a&gt; adored the novel, and Vincent van Gogh called it “life as it is,” making the book one of the subjects of a still life. Other contemporary writers were less enthusiastic, calling it “putrid” and “chiseled mire.” This could hardly have been a surprise to the Goncourt brothers, for they already warned in the preface: “this book furnishes entertainment of a melancholy, violent sort calculated to disarrange the habits and injure the health of the public.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/27711</dc:source>
 		<dc:source>https://archive.org/details/germinielacerteu02dego</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">75831</meta>
+		<meta property="se:reading-ease.flesch">67.28</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Germinie_Lacerteux</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edmond-de-goncourt_jules-de-goncourt_germinie-lacerteux_john-chestershire</meta>
 		<dc:creator id="author-1">Edmond de Goncourt</dc:creator>
@@ -87,6 +87,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
